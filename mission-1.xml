@@ -1,0 +1,56 @@
+<mission name="Save the soldier Ryan">
+        <date>
+                <day>09</day>
+                <month>06</month>
+                <year>2021</year>
+        </date>
+        <country>France</country>
+        <soldiers>
+                <soldier first-name="Sylvester" last-name="Alone">
+                        <cost>30000</cost>
+                        <country>United States of America</country>
+                        <date>
+                                <day>06</day>
+                                <month>07</month>
+                                <year>1946</year>
+                        </date>
+                </soldier>
+                <soldier first-name="Arnold" last-name="Schwazilaguerre">
+                        <cost>29000</cost>
+                        <country>Austria</country>
+                        <date>
+                                <day>30</day>
+                                <month>07</month>
+                                <year>1947</year>
+                        </date>
+                </soldier>
+                <soldier first-name="Bruce" last-name="Willsee">
+                        <cost>28000.99</cost>
+                        <country>Germany</country>
+                        <date>
+                                <day>19</day>
+                                <month>03</month>
+                                <year>1955</year>
+                        </date>
+                </soldier>
+                <soldier first-name="Jean-Claude" last-name="Vandale">
+                        <cost>27000.50</cost>
+                        <country>Belgium</country>
+                        <date>
+                                <day>18</day>
+                                <month>10</month>
+                                <year>1960</year>
+                        </date>
+                </soldier>
+                <soldier first-name="Jason" last-name="Tamtam">
+                        <cost>26000.09</cost>
+                        <country>United Kingdom</country>
+                        <date>
+                                <day>26</day>
+                                <month>07</month>
+                                <year>1967</year>
+                        </date>
+                </soldier>
+
+        </soldiers>
+</mission>
